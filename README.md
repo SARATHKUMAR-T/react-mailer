@@ -28,7 +28,7 @@ npm install
 ```
 ### 3.Set Environment Variables
 Create the following files in the root directory:
-.env.development
+.env.development,
 .env.production
 Add the following variables to both files:
 ```bash
